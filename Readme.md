@@ -83,9 +83,9 @@ The guide also explains how to configure the necessary environment variables, cr
 
 To get started, first clone the project:
 
-`git clone https://github.com/reddy-uda/Grocery-Store-Inventory-Management-System-using-Airflow-and-Pyspark.git`
+`git clone https://github.com/gurusupriya/Data-Warehouse-Analytics-and-ELT-Automation-System.git`
 
-`cd Grocery-Store-Inventory-Management-System-using-Airflow-and-Pyspark`
+`cd Data-Warehouse-Analytics-and-ELT-Automation-System`
 
 ## **Airflow Folder Overview**
 
